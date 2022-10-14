@@ -67,22 +67,21 @@ nav ul li a:hover{
 }
 
 main {
-    justify-content: space-evenly;
-    align-items: center;
-    display: flex;
-    margin-top: 50px;
+        font-size: 18px;
+        font-style: italic;
+        color: yellow;
+        display: flex;
+        align-items: center;
 }
 
-.cabo {
-    width: 1000px;
+.maneiro {
+    margin-top: 100px;
+    margin-right: 50px;
     margin-left: 200px;
-    margin-top: 100px;
 }
 
-.fala {
-    font-size: 35px;
-    font-style: italic;
-    color: yellow;
-    margin-left: 10px;
-    margin-top: 100px;
+.daciolo {
+    width: 400px;
+    margin-top: 50px;
+    margin-left: 75px;
 }

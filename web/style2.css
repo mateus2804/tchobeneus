@@ -73,12 +73,12 @@ main {
     text-align: center;
     margin-top: 80px;
     margin-bottom: 100px;
-    margin-left: 50px;
+    margin-left: 150px;
     display: flex;
     align-items: center;
 }
 
 .cabo2 {
     width: 300px;
-    
+    margin-right: 50px;
 }
