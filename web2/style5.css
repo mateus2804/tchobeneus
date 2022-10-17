@@ -67,23 +67,20 @@ nav ul li a:hover{
 }
 
 main {
-    justify-content: space-evenly;
-    align-items: center;
     display: flex;
-    margin-top: 50px;
-}
-
-.cabo {
-    width: 1000px;
-    margin-left: 200px;
-    margin-top: 100px;
-}
-
-.fala {
-    font-size: 35px;
+    font-size: 18px;
     font-style: italic;
     color: yellow;
-    margin-left: 10px;
-    margin-top: 100px;
+    align-items: center;
 }
 
+.Deus {
+    margin-top: 100px;
+    margin-right: 50px;
+}
+
+.capeta {
+    width: 8 00px;
+    margin-top: 100px;
+    margin-left: 100px;
+}
